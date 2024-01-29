@@ -12,3 +12,10 @@ C:\Users\kyled\Desktop\OOP2 - C# Labs\OOP2Lab1Skeleton\OOP2Lab1Skeleton\OOP2Lab1
 C:\Users\kyled\Desktop\OOP2 - C# Labs\OOP2Lab1Skeleton\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.exe.config
 C:\Users\kyled\Desktop\OOP2 - C# Labs\OOP2Lab1Skeleton\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.exe
 C:\Users\kyled\Desktop\OOP2 - C# Labs\OOP2Lab1Skeleton\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.pdb
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.exe.config
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.exe
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\bin\Debug\OOP2Lab1Skeleton.pdb
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\obj\Debug\OOP2Lab1Skeleton.csproj.AssemblyReference.cache
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\obj\Debug\OOP2Lab1Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\obj\Debug\OOP2Lab1Skeleton.exe
+C:\Users\kyled\Desktop\Github\C# Classes\OOP2Lab1Skeleton\OOP2Lab1Skeleton\obj\Debug\OOP2Lab1Skeleton.pdb

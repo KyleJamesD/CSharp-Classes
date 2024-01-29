@@ -8,7 +8,7 @@ namespace OOP2Lab1Skeleton
 
         public Relation(char r)
         {
-            // TODO: Initialize all attributes here
+
             relationType = r;
         }
 
@@ -20,7 +20,7 @@ namespace OOP2Lab1Skeleton
                 case 'S':
                     Console.WriteLine("Realtionship between " + p1.firstName + " and " + p2.firstName + " is: Sisterhood");
                     break;
-                // TODO: write other cases for brotherhood, fatherhood, and motherhood
+
                 case 'b':
                 case 'B':
                     Console.WriteLine("Realtionship between " + p1.firstName + " and " + p2.firstName + " is: Brotherhood");
